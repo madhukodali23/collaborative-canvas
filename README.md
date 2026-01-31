@@ -54,17 +54,20 @@ The project is built using the raw HTML5 Canvas API (no drawing libraries), focu
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Install dependencies
+## 1. Install dependencies
+```
 npm install
+```
 
-2. Start the server
+## 2. Start the server
+```
 node server/server.js
+```
 
-3. Run the frontend
+## 3. Run the frontend
+```
 Open client/index.html using Live Server in VS Code or any local static server.
-
+```
 ---
 
 ## 🧪 Testing with Multiple Users
