@@ -8,6 +8,7 @@ FULL SUBMISSION CONTENT
 FOLDER STRUCTURE
 ==============================
 
+```
 collaborative-canvas/
 ├── client/
 │   ├── index.html
@@ -20,6 +21,7 @@ collaborative-canvas/
 ├── package-lock.json
 ├── README.md
 └── ARCHITECTURE.md
+```
 
 
 ==============================
