@@ -1,4 +1,8 @@
-const socket = io("https://collaborative-canvas-vp9s.onrender.com");
+const socket = io("https://collaborative-canvas-vp9s.onrender.com",
+  {
+    transports: ["websocket"]
+  }
+);
 
 
 socket.on("connect", () => {
