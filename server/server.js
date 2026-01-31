@@ -7,10 +7,12 @@ const http = require('http');
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "https://collaborative-canvas-vp9s.onrender.com",
+    origin: "https://collaborative-canvas-khaki.vercel.app",
     methods: ["GET", "POST"]
-  }
+  },
+  transports: ["websocket"] 
 });
+
 
 
 
