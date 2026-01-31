@@ -88,20 +88,13 @@ Open client/index.html using Live Server in VS Code or any local static server.
 - Performance may degrade with very large stroke histories
 - Advanced tools (eraser, shapes) are not included
 
----
-
-## ⏱ Time Spent
-Approximately 4–5 days
 
 ---
 
 ## 📄 Documentation
 See ARCHITECTURE.md for detailed system design and data flow.
 
-
-==============================
-ARCHITECTURE.md
-==============================
+## ARCHITECTURE.md
 
 # Architecture Overview – Real-Time Collaborative Drawing Canvas
 
@@ -218,6 +211,4 @@ This architecture ensures:
 - Reliable undo and redo
 - Clean separation of responsibilities
 
-==============================
 ## END OF SUBMISSION CONTENT
-==============================
