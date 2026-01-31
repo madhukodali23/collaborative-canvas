@@ -1,12 +1,9 @@
-==============================
-REAL-TIME COLLABORATIVE DRAWING CANVAS
-FULL SUBMISSION CONTENT
-==============================
+## REAL-TIME COLLABORATIVE DRAWING CANVAS FULL SUBMISSION CONTENT
 
 
-==============================
-FOLDER STRUCTURE
-==============================
+
+## FOLDER STRUCTURE
+
 
 ```
 collaborative-canvas/
@@ -25,7 +22,7 @@ collaborative-canvas/
 
 
 ==============================
-README.md
+## README.md
 ==============================
 
 # 🎨 Real-Time Collaborative Drawing Canvas
@@ -222,5 +219,5 @@ This architecture ensures:
 - Clean separation of responsibilities
 
 ==============================
-END OF SUBMISSION CONTENT
+## END OF SUBMISSION CONTENT
 ==============================
