@@ -1,7 +1,6 @@
 const canvas = document.getElementById("canvas");
 const colorPicker = document.getElementById("colorPicker");
 const brushSize = document.getElementById("brushSize");
-const eraser = document.getElementById("eraser");
 const redoBtn = document.getElementById("redo");
 const undoBtn = document.getElementById("undo");
 const ctx = canvas.getContext("2d");
